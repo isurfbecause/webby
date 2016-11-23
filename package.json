@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "callback-loader": "^0.2.4",
     "webpack": "^1.13.3"
   }
 }
